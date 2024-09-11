@@ -1,0 +1,26 @@
+# Yapay Zeka Çözümleri
+
+Yapay zeka çözümleri iki tamamlayıcı kategoriye ayrılır:
+
+## 1. Bilişsel Çözümler (Düşünen Beyin)
+- Bilişsel çözümler, düşünme, anlama ve karar verme süreçlerini simüle eden yapay zeka teknolojilerini içerir.
+- Bu çözümler genellikle veri analizi, doğal dil işleme (NLP) ve makine öğrenmesi gibi bilişsel süreçlere odaklanır.
+
+## 2. Robotik Çözümler (Hareket Eden Vücut)
+- Robotik çözümler, fiziksel hareket ve eylemler gerçekleştiren sistemlerdir.
+- Genellikle otomasyon, robotik kollar, insansız hava araçları (drone'lar) ve otonom araçlar gibi alanlarda kullanılır.
+
+---
+
+## Mevcut ve Gelecekteki Yapay Zeka Çözümleri
+
+### 1. YDZ (Yapay Dar Zeka)
+- **Yapay Dar Zeka (YDZ)**, şu anda mevcut olan yapay zeka çözümlerinin çoğunun temelini oluşturur.
+- Bu çözümler, belirli bir alana odaklanır ve genellikle sadece tek bir görevi yapmakta uzmandırlar.
+- Örnekler: Görüntü tanıma sistemleri, sesli asistanlar, satranç oynayan yapay zekalar.
+
+### 2. YGZ (Yapay Genel Zeka)
+- **Yapay Genel Zeka (YGZ)**, gelecekte geliştirilecek çok daha evrensel ve güçlü yapay zeka çözümleridir.
+- İnsan düşüncesini ve daha geniş anlamda fiziksel eylemleri tam anlamıyla simüle edebilir.
+- YGZ'nin amacı, insanlar gibi geniş bir yelpazede düşünebilen ve kararlar alabilen bir yapay zeka oluşturmaktır.
+
