@@ -24,3 +24,30 @@ Yapay zeka çözümleri iki tamamlayıcı kategoriye ayrılır:
 - İnsan düşüncesini ve daha geniş anlamda fiziksel eylemleri tam anlamıyla simüle edebilir.
 - YGZ'nin amacı, insanlar gibi geniş bir yelpazede düşünebilen ve kararlar alabilen bir yapay zeka oluşturmaktır.
 
+--------------------------------------------------------------------------------------------------------------------------
+
+# Artificial Intelligence Solutions
+
+Artificial intelligence solutions are divided into two complementary categories:
+
+## 1. Cognitive Solutions (Thinking Brain)
+- Cognitive solutions include AI technologies that simulate thinking, understanding, and decision-making processes.
+- These solutions typically focus on cognitive processes such as data analysis, natural language processing (NLP), and machine learning.
+
+## 2. Robotic Solutions (Moving Body)
+- Robotic solutions involve systems that perform physical movements and actions.
+- They are commonly used in fields such as automation, robotic arms, drones, and autonomous vehicles.
+
+---
+
+## Current and Future AI Solutions
+
+### 1. ANI (Artificial Narrow Intelligence)
+- **Artificial Narrow Intelligence (ANI)** forms the basis of most AI solutions currently in existence.
+- These solutions focus on a specific area and are usually specialized in performing only one task.
+- Examples: Image recognition systems, voice assistants, AI that plays chess.
+
+### 2. AGI (Artificial General Intelligence)
+- **Artificial General Intelligence (AGI)** refers to future, much more universal, and powerful AI solutions.
+- AGI will be able to fully simulate human thought and perform a wide range of physical actions.
+- The goal of AGI is to create an AI capable of thinking and making decisions across a broad spectrum like humans.
