@@ -1,11 +1,5 @@
-Yapay zeka çözümlerinin iki tamamlayıcı kategorisi
-   -Bilişsel Çözümler (Düşünen beyin)
-   -Robotik Çözümler(Hareket eden vücut)
+# AI-Learning-Resources
 
-Mevcut ve gelecekteki yapay zeka çözümleri
+This repository provides a comprehensive collection of resources on artificial intelligence (AI) and machine learning (ML). It includes notes, theoretical information, algorithms, application examples, and other learning materials. Our goal is to support your knowledge acquisition and skill development in the field of AI.
 
-    -YDZ(Yapay Dar Zeka)
-Şu anda mevcutlar alanlara odaklanan çok özel yapay zeka çözümleri; genellikle tek bir şeyi yapmakta iyidirler.
-
-    -YGZ(Yapay Genel Zeka)
-İnsan düşüncesinin ve daha geniş anlamda hareket etmenin yerini alabilecek çok daha evrensel ve güçlü gelecek yapay zeka çözümleridir.
+By exploring the content in this repository, you can gain in-depth knowledge on various AI topics and apply these insights to your own projects. Contributions are welcome and appreciated if you'd like to add to this resource.
