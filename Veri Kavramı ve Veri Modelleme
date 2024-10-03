@@ -1,0 +1,88 @@
+
+# Veri Kavramı ve Veri Modelleme
+
+## Bilgi Hiyerarşisi (Data, Information, Knowledge, Wisdom)
+
+1. **Veri (Data)**: En temel bilgi birimidir. İşlenmemiş, ham haldedir.
+2. **Enformasyon (Information)**: Verinin işlenmiş ve anlamlı hale gelmiş formu.
+3. **Bilgi (Knowledge)**: Enformasyonun yorumlanmış ve kullanılır hale gelmesi.
+4. **Bilgelik (Wisdom)**: Bilginin deneyimle harmanlanmış, ileri düzeyde kullanılabilir formu.
+
+---
+
+## Verinin Hafızada Tutulması
+
+Veriler dijital ortamda sayısal ifadelerle hafızada tutulur. Örneğin, `1000001` şeklinde bir veri aslında bir bilgiye karşılık gelir.
+
+- **01000001**: Bu ikili veri sayısal olarak `65` değerine eşittir.
+  - `65` sayısı:
+    - ASCII kodlamada `A` harfine karşılık gelir.
+    - 4 bitlik hex koduyla `41` olarak ifade edilir.
+    - Piksel verisi olarak bir renk tonu bilgisine dönüştürülebilir.
+
+---
+
+## Veri Yapıları
+
+Verinin saklanması ve düzenlenmesi için kullanılan yapılar şunlardır:
+
+- **Liste (List)**: Verilerin sıralı bir biçimde tutulduğu veri yapısı.
+- **Kuyruk (Queue)**: İlk giren ilk çıkar (FIFO) mantığıyla çalışan yapı.
+- **Yığıt (Stack)**: Son giren ilk çıkar (LIFO) mantığıyla çalışan yapı.
+- **Ağaç (Tree)**: Hiyerarşik bir yapıda verilerin düzenlendiği yapı.
+- **Çizge (Graph)**: Düğümler ve bu düğümleri bağlayan kenarlar şeklinde oluşturulan yapı.
+
+---
+
+## Veri Modelleri
+
+### Sıradüzensel Veri Modeli (Hiyerarşik Veri Modeli)
+- Veriler, bir ağaç yapısı şeklinde düzenlenir.
+- Üst düzeyden alt düzeye doğru bağlantılar kurulur.
+- **Örnek**: Dosya sistemi.
+
+
+### Ağ Veri Modeli
+- Verilerin ağ şeklinde birbirine bağlandığı, birden çok ilişki barındıran modeldir.
+- Bir nesne birden fazla üst nesne ile ilişkilendirilebilir.
+
+### İlişkisel Veri Modeli
+- Veriler tablolarda saklanır ve tablolar arasındaki ilişkiler kurulur.
+- **Anahtar (Primary Key)** ve **Yabancı Anahtar (Foreign Key)** kullanılarak tablolar birbirine bağlanır.
+- SQL dili bu modelde kullanılır.
+
+### Nesne Yönelimli Veri Modeli
+- Veriler nesne tabanlı olarak temsil edilir.
+- Her veri bir nesne olarak kabul edilir ve bu nesnelerin özellikleri ile davranışları tanımlanır.
+
+---
+
+## Veri Görselleştirme
+
+Verilerin grafikler, çizelgeler, şekiller ve sütunlar kullanılarak görselleştirilmesi sürecidir. Bu yöntem, verileri anlamayı ve analiz etmeyi kolaylaştırır.
+
+---
+
+## Veri Analizi (Data Analyze)
+
+Verilerin temizlenmesi, dönüştürülmesi ve modellenmesi sürecidir. Bu süreç aşağıdaki yöntemlerle yapılır:
+
+1. **İstatistiksel Yöntemler**: Verilerin istatistiksel analizlerle incelenmesi.
+2. **Veri Madenciliği (Data Mining)**: Büyük veri kümelerinden gizli bilgilerin keşfedilmesi ve anlamlı desenlerin bulunması.
+
+---
+
+## Büyük Veri (Big Data)
+
+Büyük veri, çok büyük boyutlu ve çeşitli veri setlerini ifade eder. Büyük veri analitiğinde kullanılan 7V özelliği şunlardır:
+
+1. **Viscosity**: Verinin ne kadar akıcı olduğu.
+2. **Velocity**: Verinin işlenme hızı.
+3. **Veracity**: Verinin doğruluğu ve güvenilirliği.
+4. **Variability**: Verinin farklılık göstermesi.
+5. **Volume**: Verinin büyüklüğü.
+6. **Variety**: Verinin farklı türlerde olması (yapısal, yapısız veri).
+7. **Value**: Verinin işlenerek anlamlı ve değerli hale gelmesi.
+8. **Visualization**: Verilerin görselleştirilmesi, analiz ve anlamlandırılması için kritik bir unsurdur.
+
+---
