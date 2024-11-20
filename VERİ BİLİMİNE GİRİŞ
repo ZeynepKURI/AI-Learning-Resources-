@@ -1,0 +1,93 @@
+
+📊 Data Science & Data Management Notes
+Bu notlar, veri bilimi ve veri yönetimi konularında temel kavramları ve süreçleri kapsar.
+
+🧪 Veri Bilimi Nedir?
+Veri Bilimi: Veriyi toplama, işleme, analiz etme ve anlamlı bilgilere dönüştürme sürecidir.
+
+🎯 Veri Biliminin Amacı
+Verilerdeki desenleri ve eğilimleri ortaya çıkarmak.
+Bu bilgileri kullanarak öngörülerde bulunmak.
+Karar alma süreçlerini geliştirmek.
+🔄 Veri Bilimi Süreçleri
+Veri Toplama: Çeşitli kaynaklardan veriyi elde etme.
+Veri Hazırlama: Eksik veya hatalı verilerin düzeltilmesi, formatlanması.
+Veri Analizi: Verinin anlamlandırılması için yöntemlerin uygulanması.
+Veri Görselleştirme: Veriyi daha iyi anlaşılabilir hale getirmek için grafikler ve görseller oluşturma.
+Model Oluşturma: Tahmin veya sınıflandırma yapmak için makine öğrenmesi modellerinin geliştirilmesi.
+İzleme ve Bakım: Modellerin performansını izleme ve gerektiğinde güncelleme.
+📌 Veri Bilimi Proje Akışı
+Problemin Tanımlanması
+Veri Toplama
+Veri Hazırlama
+Veri Analizi
+Model Oluşturma
+Veri Görselleştirme
+🔺 DIKW Piramidi
+DIKW (Data, Information, Knowledge, Wisdom) piramidi, verinin bilgiye, bilgiden bilgeliğe nasıl dönüştüğünü ifade eder.
+
+Data (Veri): Ham, işlenmemiş bilgi.
+Information (Bilgi): Analiz edilmiş, düzenlenmiş veri.
+Knowledge (Bilgi Düzeyi): Veriyi anlamlandırarak karar verme sürecine katkı sağlayan bilgi.
+Wisdom (Bilgelik): Uzun vadeli öngörüler ve stratejik kararlar için kullanılan bilgi.
+
+
+📂 Veri Türleri
+Structured Data (Yapılandırılmış Veri):
+
+Satır ve sütun yapısına sahip.
+Örnek: Veritabanları (SQL).
+Semi-Structured Data (Yarı Yapılandırılmış Veri):
+
+Net bir tablo yapısına sahip olmayan, ancak belirli bir düzeni bulunan veri.
+Örnek: JSON, XML.
+Unstructured Data (Yapılandırılmamış Veri):
+
+Belirli bir formatı olmayan veri.
+Örnek: Görseller, videolar, metin dosyaları.
+🛠️ Veri Yönetimi
+Veri yönetimi, verinin toplanmasından analiz edilmesine kadar geçen sürecin verimli ve güvenli bir şekilde yönetilmesi anlamına gelir.
+
+11 Temel Veri Yönetimi Başlığı
+1. Data Strategy (Veri Stratejisi): Veri ile ilgili uzun vadeli hedeflerin belirlenmesi.
+2. Data Governance (Veri Yönetişimi): Verinin doğru ve güvenli kullanılmasını sağlamak için kurallar ve politikalar.
+3. Data Quality (Veri Kalitesi): Verinin doğruluğu, tamlığı ve tutarlılığının sağlanması.
+4. Data Architecture (Veri Mimarisi): Veri altyapısının tasarlanması ve optimize edilmesi.
+5. Metadata Management (Meta Veri Yönetimi): Veriyi tanımlayan bilgilerin düzenlenmesi ve yönetimi.
+6. Data Security (Veri Güvenliği): Verinin izinsiz erişime karşı korunması.
+7. Data Integration (Veri Entegrasyonu): Farklı kaynaklardaki verilerin birleştirilmesi.
+8. Data Warehousing (Veri Ambarlama): Büyük verilerin depolanması ve analiz için hazırlanması.
+9. Data Analytics (Veri Analitiği): Veriden anlam çıkarmak için analiz yöntemleri kullanma.
+10. Master Data Management (Ana Veri Yönetimi): Temel verilerin merkezi olarak yönetilmesi.
+11. Data Lifecycle Management (Veri Yaşam Döngüsü Yönetimi): Verinin oluşturulmasından imha edilmesine kadar geçen süreç.
+
+📈 DMBOK Piramidi (Data Management Body of Knowledge)
+1. Data Analytics & Big Data (Veri Analitiği ve Büyük Veri)
+Veri bilimi, yapay zeka, büyük veri araçlarıyla ileri analitik çalışmalar katmanıdır.
+2. Data Warehousing / Business Intelligence (Veri Ambarı ve İş Zekası)
+Verilerin depolanması ve iş zekası ile ilgili süreçlerin yürütüldüğü katmandır.
+3. Reference & Master Data (Referans ve Ana Veri)                                 
+Sistemdeki temel ve referans niteliğindeki verilerin yönetimi yapılır.
+4. Documents & Contents (Dökümanlar ve İçerik Yönetimi)
+Belgelerin ve içeriklerin organizasyonu ve kontrolü sağlanır.
+5. Data Integration & Interoperability (Veri Entegrasyonu ve Birlikte Çalışabilirlik)
+Farklı sistemler ve veri kaynakları arasında veri entegrasyonu ve uyumluluk sağlanır.
+6. Data Storage & Operations (Veri Depolama ve Operasyonlar)                                             
+Verilerin güvenli bir şekilde depolanması ve bu depoların yönetilmesi aşamasıdır.
+7. Data Modeling & Design (Veri Modelleme ve Tasarım)
+Veritabanı tasarımı, modelleme programları ve veri yapılarının oluşturulması aşamasıdır.
+8. Data Security (Veri Güvenliği)
+Verilerin güvenliği ve korunmasına yönelik süreçler tanımlanır.
+9. Metadata (Meta Veri Yönetimi)
+Verilerin anlamını ve tanımını içeren meta verilerin yönetimi yapılır.
+10. Data Quality (Veri Kalitesi)
+Genel veri mimarisi ve veri kalitesinin artırılmasına yönelik süreçler yürütülür.
+11. Data Architecture (Veri Mimarisi)
+Veri altyapısının planlanması ve organizasyonu yapılır.
+12. Data Governance (Veri Yönetimi)
+Data Management’in temelini oluşturur; kurallar ve standartlar belirlenir.
+
+
+
+
+
